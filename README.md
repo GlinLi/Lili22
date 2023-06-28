@@ -1,5 +1,4 @@
 # Welcome!
 ---
-my friend:-)
----
-Please look at the 'wiki'
+## my friend:-)
+## Please look at the 'wiki'
